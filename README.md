@@ -1,9 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-
 This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox).<br>
 It uses The MovieDB Api to search for movies and display details. Feel free to contribute!
 
 <br>
+
 ## Tools used:
 <ul>
 <li>Webpack</li>
